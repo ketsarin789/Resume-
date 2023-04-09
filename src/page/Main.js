@@ -9,7 +9,7 @@ export const Main = () => {
             <p className='h1'>Ketsarin Kayak</p>
                 <h3 style={{paddingTop: 30,  paddingBottom: 30}}>Junior React Developer</h3>
             <div className='link'>
-                <a style={{color: "white"}} href='mailto:kayakfon@gmail.com'>kayakfon@gmail.com | Seattle WA | 206 334-8052</a>
+                <a style={{color: "white"}} href='mailto:kayakfon@gmail.com'>kayakfon@gmail.com | Seattle WA | 253 334-8052</a>
             </div>
             <div style={{paddingTop: 30, paddingBottom: 30}}>
                 <Contact />
